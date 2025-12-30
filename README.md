@@ -1,3 +1,1 @@
-
 # EveMonk Blog
-

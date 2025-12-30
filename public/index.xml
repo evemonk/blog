@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EveMonk Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://blog.evemonk.com/</link>
     <description>Recent content on EveMonk Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Dec 2025 17:48:03 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.evemonk.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EveMonk Is Back!</title>
-      <link>http://localhost:1313/posts/evemonk-is-back/</link>
+      <link>https://blog.evemonk.com/posts/evemonk-is-back/</link>
       <pubDate>Tue, 30 Dec 2025 17:48:03 +0100</pubDate>
-      <guid>http://localhost:1313/posts/evemonk-is-back/</guid>
+      <guid>https://blog.evemonk.com/posts/evemonk-is-back/</guid>
       <description>&lt;p&gt;Hello,&lt;/p&gt;&#xA;&lt;p&gt;EveMonk is back!&lt;/p&gt;&#xA;&lt;p&gt;Eve server status is collecting again. This is like heart-bit.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[1] pry(main)&amp;gt; Eve::ServerStatus.count&#xA;=&amp;gt; 538680&#xA;[2] pry(main)&amp;gt; Eve::ServerStatus.last&#xA;=&amp;gt; #&amp;lt;Eve::ServerStatus:0x00007fbee333af50&#xA; id: 569106,&#xA; players: 33207,&#xA; server_version: &amp;#34;3145366&amp;#34;,&#xA; start_time: &amp;#34;2025-12-30 11:01:58.000000000 +0000&amp;#34;,&#xA; vip: nil,&#xA; created_at: &amp;#34;2025-12-30 18:08:00.098599000 +0000&amp;#34;,&#xA; updated_at: &amp;#34;2025-12-30 18:08:00.098599000 +0000&amp;#34;&amp;gt;&#xA;[3] pry(main)&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>

@@ -1,4 +1,5 @@
 baseURL = 'https://blog.evemonk.com/'
 languageCode = 'en-us'
 title = 'EveMonk Blog'
-theme = 'ananke'
+theme = "hugo-bootstrap-theme"
+themesdir = "node_modules/@filipecarneiro"

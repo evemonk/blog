@@ -5,7 +5,6 @@
 	servers {
 		protocols h1
 	}
-	admin :2019
 }
 
 http://blog.evemonk.com {

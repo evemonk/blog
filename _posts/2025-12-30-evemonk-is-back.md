@@ -4,7 +4,6 @@ title:  "EveMonk Is Back!"
 date:   2025-12-30 17:48:03 +0100
 categories: evemonk
 ---
-
 Hello,
 
 EveMonk is back!

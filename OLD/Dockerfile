@@ -4,6 +4,6 @@ COPY Caddyfile /etc/caddy/
 
 WORKDIR /www
 
-COPY _site .
+COPY public .
 
 EXPOSE 80/tcp

@@ -1,4 +1,4 @@
-name: Build and push docker images
+name: Build and push docker image
 
 on:
   push:
@@ -21,3 +21,10 @@ jobs:
           egress-policy: audit
 
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@984c0c890880bbf811283d6f09c4607c62d210a4 # v1.323.0
+        with:
+          rubygems: "latest"
+          bundler: "latest"
+          bundler-cache: true

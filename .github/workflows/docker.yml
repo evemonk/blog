@@ -30,6 +30,9 @@ jobs:
           rubygems: "latest"
           bundler: "latest"
 
+      - name: Bundle install
+        run: bundle install
+
       - name: Build blog
         run: bundle exec jekyll build
 

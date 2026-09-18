@@ -29,10 +29,9 @@ jobs:
         with:
           rubygems: "latest"
           bundler: "latest"
-          bundler-cache: true
 
       - name: Build blog
-        run: bundle exec jekyll build --verbose
+        run: bundle exec jekyll build
 
       - name: Docker meta
         id: meta

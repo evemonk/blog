@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "devDependencies": {
-    "@filipecarneiro/hugo-bootstrap-theme": "^1.0.50"
+    "@filipecarneiro/hugo-bootstrap-theme": "^2.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

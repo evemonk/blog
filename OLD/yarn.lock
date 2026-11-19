@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@filipecarneiro/hugo-bootstrap-theme@^1.0.50":
-  version "1.0.50"
-  resolved "https://registry.npmjs.org/@filipecarneiro/hugo-bootstrap-theme/-/hugo-bootstrap-theme-1.0.50.tgz"
-  integrity sha512-TFwpBU3Q36tpUc4wEKR+Cxv9OasxG7+7XzDVpTh2eZ0Hjckue8Azhj0ua5TH13RCEF3WTJPM5fS3Ru5A5rDSog==
+"@filipecarneiro/hugo-bootstrap-theme@^2.0.0":
+  version "2.2.16"
+  resolved "https://registry.yarnpkg.com/@filipecarneiro/hugo-bootstrap-theme/-/hugo-bootstrap-theme-2.2.16.tgz#8b3039f8d371515a8a7d59a99930d0334ce61e12"
+  integrity sha512-uZnsnSNe7jOmwbLUndeRuVnH90VLDDCVMHaA4NPJwQ0Q/+YpUod/jPKaDawi70F2Bd3bbo/QyVpzaP5ErUZO+Q==
